@@ -7,7 +7,7 @@ A professional Employee Analytics Dashboard developed in Microsoft Excel to tran
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="1000">
+  <img src="Dashboard1.png" width="1000">
 </p>
 
 ---
