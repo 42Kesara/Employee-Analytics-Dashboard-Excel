@@ -63,7 +63,7 @@ The dashboard is fully interactive through slicers, allowing decision-makers to 
 ## 🔍 Employee Search Panel
 
 <p align="center">
-  <img src="search-panel.png" width="1000">
+  <img src="Search.png" width="1000">
 </p>
 
 The Employee Search Panel allows users to quickly retrieve employee details by entering or selecting an Employee ID.
@@ -75,7 +75,7 @@ This improves usability by providing fast access to key employee information suc
 ## ⚡ Power Query
 
 <p align="center">
-  <img src="power-query.png" width="1000">
+  <img src="Power Query.png" width="1000">
 </p>
 
 Power Query was used to prepare and transform the dataset before analysis.
@@ -94,7 +94,7 @@ Key transformations include:
 ## 📊 Power Pivot Data Model
 
 <p align="center">
-  <img src="power-pivot.png" width="1000">
+  <img src="Power Pivot.png" width="1000">
 </p>
 
 Power Pivot was used to create relationships between multiple tables and build a scalable data model.
@@ -215,11 +215,7 @@ employee-analytics-dashboard-excel
 
 # 👨‍💻 Author
 ## Kesara Lakpriya
-📧 Email:  
-kesaralakpriya@gmail.com
-🔗 LinkedIn:  
-Add your LinkedIn profile link here
-💻 GitHub:  
-https://github.com/42Kesara
+📧 Email:kesaralakpriya@gmail.com
+💻 GitHub:https://github.com/42Kesara
 ---
 ## ⭐ If you found this project useful, consider giving it a Star.
